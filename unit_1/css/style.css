@@ -1,6 +1,27 @@
 body {
-	background-color: blue;
+	background-color: #00D3FF;
 }
-h1, p {
-	color: silver;
+h1 {
+	color: black;
+	font-weight: bold;
+	text-align: center;
+	text-decoration: underline;
+	font-weight: 750;
+	font-family: "Times New Roman", monospace;
 }
+h3 {
+	color: black;
+	font-weight: bold;
+	text-align: center;
+	font-weight: 500;
+	font-family: "Times New Roman", monospace;
+}
+ p {
+ 	color: black;
+ 	font-weight: 500;
+ 	font-family: "Times New Roman" monospace;
+ }
+ #slogan {
+ 	font-style: italic;
+ 	font-family: "Times New Roman" monospace;
+ }
