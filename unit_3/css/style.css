@@ -1,6 +1,9 @@
+img {
+	background-image: center;
+}
 body {
+	background-color: #00D3FF;
 	text-align: center;
-	background-image: img src ("image/salad.png")
 }
 h1 {
 	color: black;
