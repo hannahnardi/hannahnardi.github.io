@@ -1,10 +1,10 @@
 body {
-	background-color: #00D3FF;
+	text-align: center;
+	background-image: img src ("image/salad.png")
 }
 h1 {
 	color: black;
 	font-weight: bold;
-	text-align: center;
 	text-decoration: underline;
 	font-weight: 750;
 	font-family: "Times New Roman", monospace;
@@ -12,7 +12,6 @@ h1 {
 h3 {
 	color: black;
 	font-weight: bold;
-	text-align: center;
 	font-weight: 500;
 	font-family: "Times New Roman", monospace;
 }
