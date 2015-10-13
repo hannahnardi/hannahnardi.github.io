@@ -25,6 +25,8 @@ h3 {
  	color: black;
  	font-weight: 400;
  	font-family: "Architects Daughter", cursive;
+ 	line-height: 1.5em;
+ 	margin: 2em;
  }
  #slogan {
  	font-style: italic;
