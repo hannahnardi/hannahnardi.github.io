@@ -14,20 +14,15 @@ h1 {
 	font-weight: bold;
 	text-decoration: underline;
 	font-weight: 750;
-	font-family: "Times New Roman", monospace;
 }
 h3 {
 	color: black;
 	font-weight: bold;
-	font-weight: 500;
-	font-family: "Times New Roman", monospace;
-}
+	font-weight: 500;}
  p {
  	color: black;
  	font-weight: 500;
- 	font-family: "Times New Roman" monospace;
  }
  #slogan {
  	font-style: italic;
- 	font-family: "Times New Roman" monospace;
  }
