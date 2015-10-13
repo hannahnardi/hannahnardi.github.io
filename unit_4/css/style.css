@@ -1,35 +1,51 @@
 img {
 	background-image: center;
-	border: 2px solid black;
 	width: 350px; 
 	height: 350px;
 }
 body {
-	background-color: #00D3FF;
 	text-align: center;
+	background-image: url(file:///Users/hannahnardi/Desktop/hannahnardi.github.io/unit_4/image/salad.png);
+	background-size: 100%;
+	background-repeat: no-repeat;
 }
 h1 {
-	color: black;
-	font-weight: bold;
-	text-decoration: underline;
-	font-weight: 750;
-	font-family: "Architects Daughter", cursive;
+	color: white;
+	font-weight: bolder;
+	font-size: 65px;
+	font-family: 'Berkshire Swash', cursive;
 }
 h3 {
-	color: black;
-	font-weight: bold;
-	font-weight: 400;
-	font-family: "Architects Daughter", cursive;
+	color: white;
+	font-weight: bolder;
+	font-size: 25px;
+	font-family: 'Merienda', cursive;
 }
  p {
- 	color: black;
- 	font-weight: 400;
- 	font-family: "Architects Daughter", cursive;
- 	line-height: 1.5em;
- 	margin: 2em;
- }
+ 	color: white;
+ 	font-weight: bolder;
+ 	font-size: 30px;
+	font-family: 'Merienda', cursive;	 
+}
+ ul {
+ 	color: white;
+ 	font-size: 18px;
+	font-family: 'Merienda', cursive; 
+}
  #slogan {
- 	font-style: italic;
- 	font-weight: 400;
- 	font-family: "Architects Daughter", cursive;
+ 	font-size: 25px;
+ 	font-weight: bolder;
+	font-family: 'Merienda', cursive;
+ }
+ div {
+ 	color: white;
+ 	font-weight: bolder;
+ 	font-size: 18px;
+	font-family: 'Merienda', cursive;
+ }
+ a {
+ 	color: #070AFF;
+ 	font-family: 'Merienda', cursive;
+ 	font-size: 15px;
+ 	font-weight: bolder;
  }
