@@ -5,7 +5,7 @@ img {
 }
 body {
 	text-align: center;
-	background-image: url(file:///Users/hannahnardi/Desktop/hannahnardi.github.io/unit_4/image/salad.png);
+	background-image: url(../image/salad.png);
 	background-size: 100%;
 	background-repeat: no-repeat;
 }
