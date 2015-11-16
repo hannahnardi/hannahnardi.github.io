@@ -1,0 +1,27 @@
+body {
+	font-family: 'Source Sans Pro', sans-serif;
+}
+h1 {
+	color: white;
+	font-weight: bold;
+	font-size: 65px;
+	font-family: 'Berkshire Swash', cursive;
+}
+h2 {
+	color: #9EBF6D;
+	font-weight: bold;
+	font-size: 30px;
+}
+ p {
+ 	color: black;
+ 	font-weight: bold;
+ 	font-size: 25px; 
+}
+.clearfix:after {
+	visibility: hidden;
+	display: block;
+	font-size: 0;
+	content: " ";
+	clear: both;
+	height: 0;
+}
