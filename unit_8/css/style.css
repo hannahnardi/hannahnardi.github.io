@@ -2,7 +2,7 @@
 body {
 	font-family: 'Source Sans Pro', sans-serif;
 	font-size:100%;
-	background: #F8FCF3;
+	background: #C0E683;
 }
 h1 {
 	color: black;
@@ -14,14 +14,14 @@ h1 {
 	padding-bottom: .25em;
 }
 nav {
-	background-color: #F8FCF3;
-	font-family: 'Source Sans Pro', sans-serif;
+	background-color: #C0E683;
+	font-family: 'Abril Fatface', cursive;
 	text-align: center;
 	padding-bottom: 1em;
 }
 nav a {
-	background-color: black;
-	color: white;
+	background-color: #958369;
+	color: black;
 	text-decoration: none;
 	display: inline-block;
 	padding: 10px;
@@ -31,10 +31,11 @@ a:hover {
 	 background-color: #ccc;
 }
 h2 {
-	color: #9EBF6D;
+	color: #262625;
 	font-weight: bold;
 	font-size: 20px;
 	margin:1em 0 0 0;
+	font-family: 'Abril Fatface', cursive;
 }
  p {
  	color: gray;
@@ -48,7 +49,7 @@ section {
 	min-height: 640px;
 	margin: 1%;
 	box-shadow: 2px 2px 10px rgba(0,0,0,.3);
-	background: #fff;
+	background: #ECEDE7;
 }
 img {
 	width: 100%;
