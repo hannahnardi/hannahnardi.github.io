@@ -28,10 +28,10 @@ nav a {
 	width: 200px
 }
 a:hover {
-	 background-color: #ccc;
+	 background-color: #ECEDE7;
 }
 h2 {
-	color: #262625;
+	color: #2626;
 	font-weight: bold;
 	font-size: 20px;
 	margin:1em 0 0 0;
@@ -54,6 +54,7 @@ section {
 img {
 	width: 100%;
 }
+.no-underline: {text-decoration: none;}
 .clearfix:after {
 	visibility: hidden;
 	display: block;
