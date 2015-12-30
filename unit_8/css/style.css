@@ -7,7 +7,7 @@ body {
 h1 {
 	color: black;
 	font-weight: bold;
-	font-size: 65px;
+	font-size: 4em;
 	font-family: 'Berkshire Swash', cursive;
 	text-align: center;
 	padding-top: .25em;
@@ -18,6 +18,7 @@ nav {
 	font-family: 'Abril Fatface', cursive;
 	text-align: center;
 	padding-bottom: 1em;
+	font-size: 1.25em;
 }
 nav a {
 	background-color: #958369;
@@ -33,14 +34,15 @@ a:hover {
 h2 {
 	color: #2626;
 	font-weight: bold;
-	font-size: 20px;
+	font-size: 1.25em;
 	margin:1em 0 0 0;
 	font-family: 'Abril Fatface', cursive;
 }
  p {
  	color: gray;
- 	font-weight: bold;
- 	font-size: 18px; 
+ 	font-weight: normal;
+ 	font-size: 1em;
+ 	font-family: 'Abril Fatface', cursive; 
 }
 section {
 	width: 31.33%;
@@ -54,7 +56,6 @@ section {
 img {
 	width: 100%;
 }
-.no-underline: {text-decoration: none;}
 .clearfix:after {
 	visibility: hidden;
 	display: block;
@@ -63,3 +64,46 @@ img {
 	clear: both;
 	height: 0;
 }
+
+@media only screen and (max-width: 800px) {
+	nav {
+    	float: none;
+    }	
+    nav a {
+      	margin: 0;
+    }
+    img {
+    	width: 100%;
+	}
+}
+
+@media only screen and (max-width: 480px) {
+	h1 {
+		text-align: center;
+		display: block;
+		font-size: 4em;
+	}
+	nav {
+		text-align: center;
+		display: inline-block;
+		font-size: 1.25em;
+	}
+	nav a {
+      	margin: 0 1.6em .75em 0;
+	}
+	h2 {
+		font-size: 1.25em;
+	}
+  	p {
+  		font-size: 1em;
+  		display: inline; 
+  	}
+  	img {
+  		width: 100%;
+  		display: block;
+  	}
+}
+
+
+
+
